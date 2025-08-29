@@ -120,7 +120,7 @@ cmd({
             'description': "bot system",
             'id': _0x279e3e + "system"
           }, {
-            'title': "MAIN alive",
+            'title': "MAIN ALIVE",
             'description': "bot alive",
             'id': _0x279e3e + "alive"
           }]

@@ -35,7 +35,125 @@ cmd({
   category: "main",
   use: ".menu",
   filename: __filename
-    
+}, async (_0x71b150, _0x1ad5a5, _0x48bbb5, {
+  from: _0xb92a3,
+  pushname: _0xe4daa9,
+  prefix: _0x279e3e,
+  reply: _0x1bf951,
+  l: _0x1d0a9c
+}) => {
+  try {
+    let _0x131f3b;
+    const _0x32e23e = os.hostname().length;
+    if (_0x32e23e === 0xc) {
+      _0x131f3b = "Replit";
+    } else {
+      if (_0x32e23e === 0x24) {
+        _0x131f3b = "Heroku";
+      } else {
+        if (_0x32e23e === 0x8) {
+          _0x131f3b = "Koyeb";
+        } else {
+          _0x131f3b = os.hostname();
+        }
+      }
+    }
+    const _0xc1a722 = (process.memoryUsage().heapUsed / 0x400 / 0x400).toFixed(0x2);
+    const _0x396413 = Math.round(os.totalmem() / 0x400 / 0x400);
+    const _0x518e7e = _0xc1a722 + "MB / " + _0x396413 + 'MB';
+    const _0x511bef = await runtime(process.uptime());
+    const _0x10d177 = "*Hello " + _0xe4daa9 + "👋*\n\n*🫟 I am DARK-KNIGHT MD Official WhatsApp Bot.*\n\n*Thank you for using DARK-KNIGHT MD !*\n\n*╭──❍ MAIN MENU ❍──╮*\n\n*`⚒️ Prefix:` " + config.PREFIX + "*\n*`⏳ Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`🖥️ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94763934860*\n\n*╰──────────────╯*\n\n*╭──❍ 🔄 CONVERT MENU*\n*│ attp*\n*│ toptt*\n*│ tts*\n*│ boom*\n*│ imgurl*\n*│ sticker*\n*│ jsobfus*\n*│ translate*\n*│ readmore*\n*│ npm*\n*│ ss*\n*│ vv*\n*╰────────────╯*\n*╭──❍ 📥 DOWNLOAD MENU*\n*│ apk*\n*│ ig*\n*│ fb*\n*│ tiktok*\n*│ twitter*\n*│ img*\n*│ gdrive*\n*│ mega*\n*│ mediafire*\n*│ gitclone*\n*│ yts*\n*│ directmp3*\n*│ automp3*\n*│ song*\n*│ song2*\n*│ video*\n*│ xnxx*\n*│ download*\n*│ sinhalasub*\n*│ sinhalasubtv*\n*╰────────────╯*\n*╭──❍ 👥 GROUP MENU*\n*│ requests*\n*│ accept*\n*│ approve*\n*│ reject*\n*│ add*\n*│ kick*\n*│ promote*\n*│ demote*\n*│ mute*\n*│ unmute*\n*│ end*\n*│ join*\n*│ invite*\n*│ leave*\n*│ hidetag*\n*│ tagadmin*\n*│ ginfo*\n*│ block*\n*╰────────────╯*\n*╭──❍ 👑 MAIN MENU*\n*│ alive*\n*│ menu*\n*│ ping*\n*│ system*\n*│ update*\n*│ restart*\n*│ shutdown*\n*│ broadcast*\n*│ clearchats*\n*│ del*\n*│ owner*\n*│ forward*\n*│ forward2*\n*│ rename*\n*│ acinvite*\n*│ follow*\n*│ id*\n*│ chr*\n*│ active*\n*│ sudo*\n*│ ban*\n*│ apply*\n*│ setting*\n*╰────────────╯*\n\n";
+    const _0x4d4bd5 = "*Hello " + _0xe4daa9 + "👋*\n\n*🫟 I am DARK-KNIGHT MD Official WhatsApp Bot.*\n\n*Thank you for using DARK-KNIGHT MD !*\n\n*╭──❍ MAIN MENU ❍──╮*\n\n*`⚒️ Prefix:` " + config.PREFIX + "*\n*`⏳ Uptime:`  " + _0x511bef + "*\n*`🚀 Memory Use:` " + _0x518e7e + "*\n*`🖥️ Platform:` " + _0x131f3b + "*\n*`👨🏻‍💻 Owner:` 94763934860*\n\n*╰──────────────╯*\n\n*╭──❍ 🔄 CONVERT MENU*\n*│ attp*\n*│ toptt*\n*│ tts*\n*│ boom*\n*│ imgurl*\n*│ sticker*\n*│ jsobfus*\n*│ translate*\n*│ readmore*\n*│ npm*\n*│ ss*\n*│ vv*\n*╰────────────╯*\n*╭──❍ 📥 DOWNLOAD MENU*\n*│ apk*\n*│ ig*\n*│ fb*\n*│ tiktok*\n*│ twitter*\n*│ img*\n*│ gdrive*\n*│ mega*\n*│ mediafire*\n*│ gitclone*\n*│ yts*\n*│ directmp3*\n*│ automp3*\n*│ song*\n*│ song2*\n*│ video*\n*│ xnxx*\n*│ download*\n*│ sinhalasub*\n*│ sinhalasubtv*\n*╰────────────╯*\n*╭──❍ 👥 GROUP MENU*\n*│ requests*\n*│ accept*\n*│ approve*\n*│ reject*\n*│ add*\n*│ kick*\n*│ promote*\n*│ demote*\n*│ mute*\n*│ unmute*\n*│ end*\n*│ join*\n*│ invite*\n*│ leave*\n*│ hidetag*\n*│ tagadmin*\n*│ ginfo*\n*│ block*\n*╰────────────╯*\n*╭──❍ 👑 MAIN MENU*\n*│ alive*\n*│ menu*\n*│ ping*\n*│ system*\n*│ update*\n*│ restart*\n*│ shutdown*\n*│ broadcast*\n*│ clearchats*\n*│ del*\n*│ owner*\n*│ forward*\n*│ forward2*\n*│ rename*\n*│ acinvite*\n*│ follow*\n*│ id*\n*│ chr*\n*│ active*\n*│ sudo*\n*│ ban*\n*│ apply*\n*│ setting*\n*╰────────────╯*\n\n";
+    let _0x2500e1;
+    try {
+      if (!config.LOGO || !config.LOGO.startsWith('http')) {
+        throw new Error("Invalid config.LOGO URL");
+      }
+      const _0x39f2bb = await axios.get(config.LOGO, {
+        'responseType': "arraybuffer"
+      });
+      _0x2500e1 = Buffer.from(_0x39f2bb.data, "binary");
+      if (!Buffer.isBuffer(_0x2500e1)) {
+        throw new Error("Not a valid buffer");
+      }
+    } catch (_0x3834c6) {
+      console.error("❌ Failed to load image:", _0x3834c6.message);
+      return _0x1bf951("⚠️ Could not load menu image. Check your LOGO URL.");
+    }
+    const _0x583d90 = [{
+      'buttonId': _0x279e3e + "ping",
+      'buttonText': {
+        'displayText': "BOT PING"
+      },
+      'type': 0x1
+    }, {
+      'buttonId': _0x279e3e + "system",
+      'buttonText': {
+        'displayText': "BOT SYSTEM"
+      },
+      'type': 0x1
+    }, {
+      'buttonId': _0x279e3e + "alive",
+      'buttonText': {
+        'displayText': "BOT ALIVE"
+      },
+      'type': 0x1
+    }];
+    const _0x41615d = {
+      'image': _0x2500e1,
+      'caption': _0x4d4bd5,
+      'footer': config.FOOTER,
+      'buttons': _0x583d90,
+      'headerType': 0x4
+    };
+    if (config.BUTTON === "true") {
+      const _0xbc5dba = {
+        'title': "𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 ⎙",
+        'sections': [{
+          'title': 'DARK-KNIGHT MD',
+          'rows': [{
+            'title': "MAIN PING",
+            'description': "bot speed",
+            'id': _0x279e3e + "ping"
+          }, {
+            'title': "MAIN SYSTEM",
+            'description': "bot system",
+            'id': _0x279e3e + "system"
+          }, {
+            'title': "MAIN alive",
+            'description': "bot alive",
+            'id': _0x279e3e + "alive"
+          }]
+        }]
+      };
+      return await _0x71b150.sendMessage(_0xb92a3, {
+        'image': _0x2500e1,
+        'caption': _0x10d177,
+        'footer': config.FOOTER,
+        'buttons': [{
+          'buttonId': "action",
+          'buttonText': {
+            'displayText': "🔽 Select Option"
+          },
+          'type': 0x4,
+          'nativeFlowInfo': {
+            'name': 'single_select',
+            'paramsJson': JSON.stringify(_0xbc5dba)
+          }
+        }],
+        'headerType': 0x1,
+        'viewOnce': true
+      }, {
+        'quoted': _0x1ad5a5
+      });
+    } else {
+      await _0x71b150.buttonMessage(_0xb92a3, _0x41615d, _0x1ad5a5);
+    }
+  } catch (_0x5738e1) {
+    _0x1bf951("*❌ Error occurred!*");
+    _0x1d0a9c(_0x5738e1);
+  }
+});   
 cmd({
   'pattern': "alive",
   'react': '👋',

@@ -736,24 +736,18 @@ async function connectToWA() {
         }
         _0x43833d.react('' + _0x8a4565.sadas);
       }
-      if (_0x8ddc90.includes("94763934860")) {
-        if (_0x5cd917) {
-          return;
-        }
-        _0x43833d.react('' + _0x8a4565.saviya);
-      }
       if (_0x8ddc90.includes("94771825192")) {
         if (_0x5cd917) {
           return;
         }
-        _0x43833d.react('' + _0x8a4565.sadas);
+        _0x43833d.react('' + _0x8a4565.saviya);
       }
       const _0x28a435 = config.OWNER_NUMBER;
       if (_0x8ddc90.includes(_0x28a435)) {
         if (_0x5cd917) {
           return;
         }
-        _0x43833d.react("💁‍♂️");
+        _0x43833d.react("👨🏻‍💻");
       }
       if (_0x12771f && config.CMD_ONLY_READ == "true") {
         await _0x55533e.readMessages([_0x4b9a40.key]);
